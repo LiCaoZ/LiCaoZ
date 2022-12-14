@@ -7,8 +7,8 @@
 [GPG Signature](https://github.com/LiCaoZ.gpg)
 
 ## 教育经历
-2019 年 09 月 - 2022 年 06 月 | 重庆市合川中学初 2022 级学生  
-2022 年 09 月 - 至今 | 重庆市合川中学高 2025 级学生
+2019 年 09 月 - 2022 年 06 月 | 重庆市合川中学初 2022 届学生  
+2022 年 09 月 - 至今 | 重庆市合川中学高 2025 届学生
 
 ## 联系方式
 [Twitter](https://twitter.com/LiCaoZ) | [Telegram](https://t.me/LiCaoZ) | [E-Mail](mailto:admin@licaoz.com)
