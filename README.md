@@ -9,7 +9,7 @@
 2022 年 09 月 - 至今 | 重庆市合川中学高 2025 届学生
 
 ## 联系方式
-[Twitter](https://twitter.com/0xLiCaoZ) | [Telegram](https://t.me/LiCaoZ) | [E-Mail](mailto:admin@licaoz.com)
+[Twitter](https://twitter.com/LiCaoZ) | [Telegram](https://t.me/LiCaoZ) | [E-Mail](mailto:admin@licaoz.com)
 
 ## 更多
 您可在 [这里](https://blog.licaoz.com/about) 获取更多关于我的资讯。  
