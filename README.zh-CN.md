@@ -4,7 +4,7 @@
 
 这里是 Caozhi Li（同样使用 LiCaoZ，“草纸”）。嗨，欢迎光临！👋
 
-![我可以说英语和中文！](https://img.shields.io/badge/英语/中文-blue?style=flat-square&label=语言) ![我是一名大一学生 :)](https://img.shields.io/badge/本科_(4 年中的第 1 年)-purple?style=flat-square&label=教育) ![若有需要，我位于 /dev/null](https://img.shields.io/badge//dev/null-white?style=flat-square&label=位置)
+![我可以说英语和中文！](https://img.shields.io/badge/英语/中文-blue?style=flat-square&label=语言) ![我是一名大一学生 :)](https://img.shields.io/badge/本科_%284%20年中的第%201%20年%29-purple?style=flat-square&label=教育) ![若有需要，我位于 /dev/null](https://img.shields.io/badge//dev/null-white?style=flat-square&label=位置)
 
 [![在 LinkedIn 和我相连接！](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caozhi-li/) [![查阅我的部落格](https://img.shields.io/badge/博客_[仅中文]-gray?style=for-the-badge&logo=wordpress)](https://blog.licaoz.com/) [![切出我的 GitHub 配置文件](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/LiCaoZ)
 

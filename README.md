@@ -4,7 +4,7 @@
 
 This is Caozhi Li (aka. LiCaoZ, "草纸"). Hi, and welcome! 👋
 
-![I can say both English and Chinese!](https://img.shields.io/badge/EN/ZH-blue?style=flat-square&label=Language) ![I'm a first-year of undergraduate student :)](https://img.shields.io/badge/Undergraduate_(Year 1 of 4)-purple?style=flat-square&label=Education) ![FYI, I'm located at /dev/null](https://img.shields.io/badge//dev/null-white?style=flat-square&label=Location)
+![I can say both English and Chinese!](https://img.shields.io/badge/EN/ZH-blue?style=flat-square&label=Language) ![I'm a first-year of undergraduate student :)](https://img.shields.io/badge/Undergraduate_%28Year%201%20of%204%29-purple?style=flat-square&label=Education) ![FYI, I'm located at /dev/null](https://img.shields.io/badge//dev/null-white?style=flat-square&label=Location)
 
 [![Connect me at LinkedIn!](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caozhi-li/) [![Check out my blog!](https://img.shields.io/badge/Blog_[Chinese_Only]-gray?style=for-the-badge&logo=wordpress)](https://blog.licaoz.com/) [![Check out my GitHub profile!](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/LiCaoZ)
 
